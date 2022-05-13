@@ -1,17 +1,16 @@
 # CS 225 Final Project: Congressional Correlation
 ### Team Members:
-* Kyle Kenmotsu (kkenm2)
-* Joe Ku (jsku2)
-* Nathan Kim (nrkim2)
-* Neil Prabhu (nprabh8)
+* Kyle Kenmotsu 
+* Joe Ku 
+* Nathan Kim 
+* Neil Prabhu 
 
 ## Introduction
 For a given Congress member, which other Congress members do they tend to work/sponsor bills with?
 We used the publicly available GovInfo Bulk Data dataset (as accessed on 3/25/2022), which stores information about every bill introduced in Congress since 2003, in order to build a graph relationship of Congress members.
 
-## Deliverables (TODO)
-* [Written Report](https://github-dev.cs.illinois.edu/cs225-sp22/kkenm2-jsku2-nrkim2-nprabh8/blob/main/results.md)
-* [Presentation Video](https://youtu.be/GuTiRfBl3Pk)
+## Deliverables
+* [Output & Results](https://github-dev.cs.illinois.edu/cs225-sp22/kkenm2-jsku2-nrkim2-nprabh8/blob/main/results.md)
 * [Presentation Slides](https://docs.google.com/presentation/d/1S1UwxRnkpKOwtoovxOivmun0rX-Jcvfp40Y9z3kJScg/edit?usp=sharing)
 
 ## File Description and Contents
