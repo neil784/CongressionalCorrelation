@@ -1,7 +1,7 @@
 # Meeting Log Records #
 
 ## Meeting on 3/29/22 ##
-### Notetaker: Joe ###
+### Notetaker: Joe Ku ###
 Set up a coding environment for the final project. This involved figuring out how to run the development environment on each members’ machine (either using docker or fastx). We also created the Makefile and compiled a simple “Hello World!” program. Imported rapidXML to assist with extracting data. Configured test suite and ran simple test to check functionality
 
 ## Meeting on 4/5/2022 ##
